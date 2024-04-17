@@ -1,0 +1,81 @@
+python manage.py migrate 
+    对数据库进行更新 应用刚编写的数据库脚本
+python manage.py makemigrations +app名字 
+   根据app名字下的model内定义的数据库类 生成相应的脚本 定义数据库的模型
+python manage.py runserver 0.0.0.0:80  
+    运行脚本
+python manage.py createsuperuser
+   创建一个超级用户 （管理员)
+   名字zzp 邮箱2102800347@qq.com 密码88888888
+HttpResponse:
+  该函数作用为将字符串作为js语言返回 使前端读取识别
+代码直接生成HTML：
+  直接将代码放在views文件内python manage.py startapp mgr
+django.middleware.csrf.CsrfViewMiddleware
+  Django 提供了内置的 CSRF 防护机制，它是一个随机生成的字符串，用于验证每个请求的来源是否合法
+http://127.0.0.1/mgr/sign.html 
+  可以访问的html文件地址 与api/mgr/sgin作用不一样，后者为api接口
+python manage.py makemigrations (common)只对common生成迁移文件
+python manage.py migrate
+  将数据同步到common数据库内
+  前一条生成迁移文件 后一条将迁移文件应用到数据库内
+Content-Type 
+  响应消息格式
+# admin界面语言本地化
+    'django.middleware.locale.LocaleMiddleware',
+
+
+
+
+
+
+    info    = request.params['data']
+    # 从请求消息中 获取要添加客户的信息
+    # 并且插入到数据库中
+    medicine = Medicine.objects.create(name=info['name'] ,
+                            sn=info['sn'] ,
+                            desc=info['desc'])
+
+
+    return JsonResponse({'ret': 0, 'id':medicine.id})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+admin.py:
+这个文件用于在 Django 的管理界面中注册模型，以便你可以通过 Django 自带的管理界面对模型进行增删改查操作。
+你可以在这个文件中导入你的模型并通过 admin.site.register() 方法注册它们。
+apps.py:
+这个文件定义了应用程序的配置。你可以在这里配置应用程序的名称、标签和其他属性。
+models.py:
+这个文件定义了应用程序中的数据模型。你可以在这里创建数据库表，每个模型类对应一个数据库表，每个模型类的属性对应数据库表的字段。
+通过在这个文件中定义模型类，你可以方便地与数据库进行交互。
+tests.py:
+这个文件包含了用于测试应用程序的单元测试代码。单元测试用于验证应用程序的各个部分是否按预期进行工作。
+你可以在这个文件中编写测试用例，以确保你的应用程序在修改或扩展时保持正确性。
+urls.py:
+这个文件定义了应用程序的 URL 配置。你可以在这里定义应用程序的 URL 路由，以便 Django 知道如何将请求分派给相应的视图函数。
+你可以使用 Django 的 URL 配置语法来映射 URL 路径到视图函数。
+views.py:
+这个文件包含了应用程序中的视图函数。视图函数接收 HTTP 请求并返回 HTTP 响应，用于处理用户请求并生成相应的页面或数据。
+你可以在这个文件中编写业务逻辑，处理用户请求，并渲染模板或返回 JSON 数据等

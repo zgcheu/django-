@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>下滑菜单示例</title>
+<style>
+  /* CSS 样式 */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+</style>
+</head>
+<body>
+
+<h2>点击箭头展开菜单</h2>
+<div class="dropdown" id="myDropdown">
+  <span>点击我</span>
+  <div class="dropdown-content" id="menuItems">
+    <!-- 这里将使用JavaScript生成菜单项 -->
+  </div>
+</div>
+
+<script>
+  // JavaScript代码
+  // 当箭头被点击时触发的函数
+  function handleClick() {
+    // 发送请求到后端获取菜单项
+    // 这里使用一个简单的假数据作为示例
+    const fakeMenuItems = ['Item 1', 'Item 2', 'Item 3'];
+    
+    // 获取菜单容器
+    const menuContainer = document.getElementById('menuItems');
+    
+    // 清空菜单容器
+    menuContainer.innerHTML = '';
+    
+    // 将后端返回的菜单项添加到菜单容器中
+    fakeMenuItems.forEach(item => {
+      const menuItem = document.createElement('a');
+      menuItem.textContent = item;
+      menuContainer.appendChild(menuItem);
+    });
+    console.log('已经点击');
+
+  }
+
+  // 将函数绑定到箭头的点击事件上
+  document.getElementById('myDropdown').addEventListener('click', handleClick);
+</script>
+
+</body>
+</html>

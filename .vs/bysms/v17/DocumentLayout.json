@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\django\\bysms_08\\bysms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\customer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\customer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\\u64CD\u4F5C\u547D\u4EE4\u884C.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u64CD\u4F5C\u547D\u4EE4\u884C.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\tests\\tc001.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\tc001.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\bysms\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bysms\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\sign_in_out.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\sign_in_out.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\order.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\order.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\index.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\index.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\medicine.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\medicine.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\sales\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sales\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\common\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:common\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\sales\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sales\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:z_dist\\mgr\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\sales\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sales\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\sales\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sales\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\common\\migrations\\0007_alter_country_id_alter_customer_id_alter_medicine_id_and_more.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:common\\migrations\\0007_alter_country_id_alter_customer_id_alter_medicine_id_and_more.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\common\\migrations\\0006_country.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:common\\migrations\\0006_country.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\common\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:common\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\migrations\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\migrations\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\manage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:manage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\common\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:common\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\common\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:common\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\run.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:run.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\mgr\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mgr\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\bysms\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bysms\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\html\\zhuce.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:z_dist\\mgr\\html\\zhuce.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\html\\sign.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:z_dist\\mgr\\html\\sign.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\bysms\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bysms\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\bysms\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bysms\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:z_dist\\mgr\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tc001.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\tests\\tc001.py",
+              "RelativeDocumentMoniker": "tests\\tc001.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\tests\\tc001.py",
+              "RelativeToolTip": "tests\\tc001.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T04:12:20.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "urls.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\bysms\\urls.py",
+              "RelativeDocumentMoniker": "bysms\\urls.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\bysms\\urls.py",
+              "RelativeToolTip": "bysms\\urls.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T04:11:39.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "customer.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\customer.py",
+              "RelativeDocumentMoniker": "mgr\\customer.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\customer.py",
+              "RelativeToolTip": "mgr\\customer.py",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T04:07:07.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\index.py",
+              "RelativeDocumentMoniker": "mgr\\index.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\index.py",
+              "RelativeToolTip": "mgr\\index.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T04:01:25.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tests.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\sales\\tests.py",
+              "RelativeDocumentMoniker": "sales\\tests.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\sales\\tests.py",
+              "RelativeToolTip": "sales\\tests.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T04:01:03.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "medicine.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\medicine.py",
+              "RelativeDocumentMoniker": "mgr\\medicine.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\medicine.py",
+              "RelativeToolTip": "mgr\\medicine.py",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:27:41.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "order.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\order.py",
+              "RelativeDocumentMoniker": "mgr\\order.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\order.py",
+              "RelativeToolTip": "mgr\\order.py",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:18:35.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "models.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\common\\models.py",
+              "RelativeDocumentMoniker": "common\\models.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\common\\models.py",
+              "RelativeToolTip": "common\\models.py",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwCwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:23:56.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "test.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\test.py",
+              "RelativeDocumentMoniker": "mgr\\test.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\test.py",
+              "RelativeToolTip": "mgr\\test.py",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:17:33.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u64CD\u4F5C\u547D\u4EE4\u884C.txt",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\\u64CD\u4F5C\u547D\u4EE4\u884C.txt",
+              "RelativeDocumentMoniker": "\u64CD\u4F5C\u547D\u4EE4\u884C.txt",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\\u64CD\u4F5C\u547D\u4EE4\u884C.txt",
+              "RelativeToolTip": "\u64CD\u4F5C\u547D\u4EE4\u884C.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-17T03:17:40.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "urls.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\urls.py",
+              "RelativeDocumentMoniker": "mgr\\urls.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\urls.py",
+              "RelativeToolTip": "mgr\\urls.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:27:39.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "apps.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\sales\\apps.py",
+              "RelativeDocumentMoniker": "sales\\apps.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\sales\\apps.py",
+              "RelativeToolTip": "sales\\apps.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:58:19.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sign_in_out.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\sign_in_out.py",
+              "RelativeDocumentMoniker": "mgr\\sign_in_out.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\sign_in_out.py",
+              "RelativeToolTip": "mgr\\sign_in_out.py",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:17:32.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.js",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\js\\index.js",
+              "RelativeDocumentMoniker": "z_dist\\mgr\\js\\index.js",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\js\\index.js",
+              "RelativeToolTip": "z_dist\\mgr\\js\\index.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA6wBwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-17T03:45:34.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "0006_country.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\common\\migrations\\0006_country.py",
+              "RelativeDocumentMoniker": "common\\migrations\\0006_country.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\common\\migrations\\0006_country.py",
+              "RelativeToolTip": "common\\migrations\\0006_country.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:40:54.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "__init__.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\migrations\\__init__.py",
+              "RelativeDocumentMoniker": "mgr\\migrations\\__init__.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\migrations\\__init__.py",
+              "RelativeToolTip": "mgr\\migrations\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:39:22.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "0001_initial.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\common\\migrations\\0001_initial.py",
+              "RelativeDocumentMoniker": "common\\migrations\\0001_initial.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\common\\migrations\\0001_initial.py",
+              "RelativeToolTip": "common\\migrations\\0001_initial.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:39:28.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "0007_alter_country_id_alter_customer_id_alter_medicine_id_and_more.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\common\\migrations\\0007_alter_country_id_alter_customer_id_alter_medicine_id_and_more.py",
+              "RelativeDocumentMoniker": "common\\migrations\\0007_alter_country_id_alter_customer_id_alter_medicine_id_and_more.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\common\\migrations\\0007_alter_country_id_alter_customer_id_alter_medicine_id_and_more.py",
+              "RelativeToolTip": "common\\migrations\\0007_alter_country_id_alter_customer_id_alter_medicine_id_and_more.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:39:29.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "views.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\sales\\views.py",
+              "RelativeDocumentMoniker": "sales\\views.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\sales\\views.py",
+              "RelativeToolTip": "sales\\views.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:45:22.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "urls.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\sales\\urls.py",
+              "RelativeDocumentMoniker": "sales\\urls.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\sales\\urls.py",
+              "RelativeToolTip": "sales\\urls.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:45:24.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "views.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\common\\views.py",
+              "RelativeDocumentMoniker": "common\\views.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\common\\views.py",
+              "RelativeToolTip": "common\\views.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-17T03:27:36.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "run.bat",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\run.bat",
+              "RelativeDocumentMoniker": "run.bat",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\run.bat",
+              "RelativeToolTip": "run.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2024-04-17T03:17:39.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "manage.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\manage.py",
+              "RelativeDocumentMoniker": "manage.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\manage.py",
+              "RelativeToolTip": "manage.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-13T13:04:40.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "__init__.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\__init__.py",
+              "RelativeDocumentMoniker": "mgr\\__init__.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\__init__.py",
+              "RelativeToolTip": "mgr\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-14T07:44:41.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "apps.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\apps.py",
+              "RelativeDocumentMoniker": "mgr\\apps.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\apps.py",
+              "RelativeToolTip": "mgr\\apps.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-14T07:43:21.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "wsgi.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\bysms\\wsgi.py",
+              "RelativeDocumentMoniker": "bysms\\wsgi.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\bysms\\wsgi.py",
+              "RelativeToolTip": "bysms\\wsgi.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-13T11:57:55.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "tests.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\common\\tests.py",
+              "RelativeDocumentMoniker": "common\\tests.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\common\\tests.py",
+              "RelativeToolTip": "common\\tests.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-14T07:28:39.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "admin.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\mgr\\admin.py",
+              "RelativeDocumentMoniker": "mgr\\admin.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\mgr\\admin.py",
+              "RelativeToolTip": "mgr\\admin.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-14T07:43:20.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "zhuce.html",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\html\\zhuce.html",
+              "RelativeDocumentMoniker": "z_dist\\mgr\\html\\zhuce.html",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\html\\zhuce.html",
+              "RelativeToolTip": "z_dist\\mgr\\html\\zhuce.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-14T06:47:47.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "sign.html",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\html\\sign.html",
+              "RelativeDocumentMoniker": "z_dist\\mgr\\html\\sign.html",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\html\\sign.html",
+              "RelativeToolTip": "z_dist\\mgr\\html\\sign.html",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-13T10:12:10.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "__init__.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\bysms\\__init__.py",
+              "RelativeDocumentMoniker": "bysms\\__init__.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\bysms\\__init__.py",
+              "RelativeToolTip": "bysms\\__init__.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-13T11:58:01.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "settings.py",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\bysms\\settings.py",
+              "RelativeDocumentMoniker": "bysms\\settings.py",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\bysms\\settings.py",
+              "RelativeToolTip": "bysms\\settings.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-13T11:57:59.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "index.js",
+              "DocumentMoniker": "E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\index.js",
+              "RelativeDocumentMoniker": "z_dist\\mgr\\index.js",
+              "ToolTip": "E:\\code\\django\\bysms_08\\bysms\\z_dist\\mgr\\index.js",
+              "RelativeToolTip": "z_dist\\mgr\\index.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAgEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-13T10:15:11.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

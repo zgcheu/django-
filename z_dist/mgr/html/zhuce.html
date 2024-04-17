@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>注册</title>
+    <link rel="stylesheet" type="text/css" href="../css/zhuce.css">
+    <link rel="icon" type="image/jpg" href="../img/download.jpg">
+    <script src="../js/zhuce.js"></script>
+</head>
+<body>
+    <div class="cont_principal">
+        <div class="cont_centrar2">
+            <div class="cont_login">
+                <div action="">
+                    <div class="cont_tabs_login"></div>
+                    <div class="cont_text_inputs">
+                        <input type="text" class="input_form_sign" placeholder="NAME" id="realname">
+                        <div class="dropdown" id="myDropdown">
+                            <span>国家</span>
+                            <div class="dropdown-content" id="menuItems">
+                                <!-- 这里将使用JavaScript生成菜单项 -->
+                            </div>
+                        </div>
+                        <input type="text" maxlength="10" class="input_form_sign d_block active_inp" placeholder="登录名" id="username">
+                        <input type="password" maxlength="10" class="input_form_sign d_block active_inp" placeholder="密码" id="password">
+                        <!-- 确认密码 -->
+                        <input type="password" maxlength="10" class="input_form_sign d_block active_inp" placeholder="确认密码" id="conf_password">
+                        <!-- 验证码 -->
+                        <!--input type="text" maxlength="10" class="input_form_sign d_block active_inp" placeholder="验证码" id="captcha"-->
+                        <canvas style="margin-left:20%" id="textCanvas" height="30" width="100"></canvas>
+                        <div class="terms_and_cons d_none">
+                            <p class="d_none">
+                                <input type="checkbox" name="terms_and_cons">
+                                <label for="terms_and_cons">Accept  Terms and Conditions.</label>
+                            </p>
+                        </div>
+                    <div class="cont_btn">
+                        <button class="btn_sign" id="btn_sign" onclick="submit1()">注册</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
