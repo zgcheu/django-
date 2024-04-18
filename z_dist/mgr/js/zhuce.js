@@ -47,6 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // 显示下拉菜单
             menuContainer.style.display = 'block';
+            
         })
         .catch(error => {
             // 请求失败，打印错误信息

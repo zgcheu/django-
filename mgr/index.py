@@ -11,7 +11,7 @@ def register_user(request):
             data = json.loads(request.body)
             username = data['username']
             password = data['password']
-
+            country = data['country']
             # 检查用户名是否已经存在
             if User.objects.filter(username=username).exists():
                 return JsonResponse({'error': 'Username already exists1'}, status=401)

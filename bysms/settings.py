@@ -120,3 +120,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+# 自定义用户模型设置
+AUTH_USER_MODEL = 'common.CustomUser'
+
+# 自动字段设置
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'

@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\bysms",
+    "\\common\\migrations",
     "\\mgr",
     "\\mgr\\migrations",
-    "\\tests"
+    "\\mgr\\__pycache__"
   ],
-  "SelectedNode": "\\mgr\\customer.py",
+  "SelectedNode": "\\mgr\\migrations\\__init__.py",
   "PreviewInSolutionExplorer": false
 }
